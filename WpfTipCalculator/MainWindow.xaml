@@ -82,14 +82,14 @@
 
 		<!--  Tip TextBlock  -->
 		<Label
-			x:Name="TextBoxTipAmount"
+			x:Name="lblTipAmount"
 			Grid.Row="5"
 			Grid.Column="2"
 			Content="0" />
 
 		<!--  Total TextBlock  -->
 		<Label
-			x:Name="TextBoxTotalAmount"
+			x:Name="lblTotalAmount"
 			Grid.Row="6"
 			Grid.Column="2"
 			Content="0" />
