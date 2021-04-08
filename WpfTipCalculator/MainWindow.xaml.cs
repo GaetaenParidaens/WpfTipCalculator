@@ -38,6 +38,9 @@ namespace TipCalculator.Wpf
             }
             
             catch
+                
+                
+                
             {
                 var error = inputAmount;
                 MessageBox.Show($"Value {error} is incorrect", "error", MessageBoxButton.OK);
