@@ -36,6 +36,7 @@ namespace TipCalculator.Wpf
                 var tryAmount = Convert.ToDouble(inputAmount);
                 return true;
             }
+            
             catch
             {
                 var error = inputAmount;
